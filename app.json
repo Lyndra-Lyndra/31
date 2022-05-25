@@ -1,6 +1,6 @@
 {
-    "name": "Media Search bot",
-    "description": "When you going to send file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode",
+    "name": "Search bot",
+    "description": "When you going to send file",
     "keywords": [
       "telegram",
       "best",
@@ -13,7 +13,7 @@
       "inline"
     ],
     "website": "https://github.com/Mahesh0253/Media-Search-bot",
-    "repository": "https://github.com/Mahesh0253/Media-Search-bot",
+    "repository": "https://github.com/Lyndra-Lyndra/31",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
